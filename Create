@@ -1,0 +1,7 @@
+The Task
+              Build a Kanban board web application. The application should communicate with a Database of your choice(preferebly Postgres) through an API layer.
+
+1.Four default sections - Backlogs, Planned, In Progress and Completed.
+2.One default board and the ability to create multiple boards.
+3.The option to add new tasks to the board, update existing tasks and delete tasks.
+4.The option to drag and drop tasks across the board to change their statuses.
